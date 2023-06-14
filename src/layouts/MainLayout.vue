@@ -58,6 +58,7 @@
 <script>
 import { defineComponent, ref } from 'vue'
 import EssentialLink from 'components/EssentialLink.vue'
+import Courses from 'src/pages/Courses.vue'
 
 const linksList = [
   {
